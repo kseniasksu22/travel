@@ -1,6 +1,6 @@
-# Проект 3: Путешествие по России
+# Проект 3: Путешествие
 Github Pages: [https://kseniasksu22.github.io/russian-travel/](https://kseniasksu22.github.io/russian-travel/ "https://kseniasksu22.github.io/russian-travel/")&nbsp;
-Проектная работа об интересных местах, которые стоит посетить в России.
+Проектная работа об интересных местах, которые стоит посетить
 ## Использованные технологии: #
 * Html; 
 * CSS; 
