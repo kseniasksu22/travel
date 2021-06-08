@@ -1,0 +1,5 @@
+@media screen and (max-width: 534px) {
+    .footer__link-wrapper-item {
+        padding-bottom: 32px;
+    }
+}

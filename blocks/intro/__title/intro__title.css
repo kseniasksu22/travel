@@ -1,0 +1,29 @@
+.intro__title {
+    margin: 0px;
+    max-width: 690px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 54px;
+    padding-bottom: 40px;
+}
+
+@media screen and (max-width: 1024px) {
+    .intro {
+        padding-top: 92px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .intro {
+        padding-top: 88px;
+    }
+    .intro__title {
+        font-size: calc(32px + (54 - 32) * (100vw - 320px) / (768 - 320));
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .intro {
+        padding-top: 64px;
+    }
+}
